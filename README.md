@@ -1,4 +1,4 @@
-# juit-chatbot-2.0
+# juit-chatbot
 This python project uses NLTK library to answer all your questions, queries and get information about JUIT, Solan. Some sample questions are : 
 "Good Afternoon" 
 "Tell me about JUIT"
